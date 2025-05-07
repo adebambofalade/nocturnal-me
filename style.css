@@ -1,0 +1,25 @@
+
+
+body{
+	background-image: url(bkg.jpg);
+	background-size:cover ;
+
+}
+
+nav li{
+	list-style: none;
+	display: inline-block;
+	border: 3px solid rgba(21, 24, 32, 0.40);
+}
+
+h1{
+	font-size: 40px;
+	color: #f3d596;
+	text-align: center;
+	border: 1px solid  #f3d596;
+	cursor: pointer;
+}
+
+h1{
+	background-color: #151820;
+}
