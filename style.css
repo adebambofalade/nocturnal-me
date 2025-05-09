@@ -20,6 +20,40 @@ h1{
 	cursor: pointer;
 }
 
-h1{
+p{
+	text-decoration: underline;
+	text-transform: uppercase;
+	line-height: 20px;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 50%;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+p {
+	font-family: "Barlow Condensed", sans-serif;
+	font-weight: 100;
+	font-style: normal;
+  }
+
+h1 {
 	background-color: #151820;
+}
+
+img{
+	float: left;
+}
+
+#id{
+	clear: both;
+}
+
+.boxmodel{
+	border: 5px solid red;
+	display: inline-block;
+	padding: 10px 30px;
+	background-color: azure;
+	margin: 20px 0;
+	width: 33px;
+	height: 55px;
 }
